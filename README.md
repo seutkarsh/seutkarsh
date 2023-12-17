@@ -4,7 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer & Data Science Enthusiast
 --------------------------------------------------
 
-I'm a recent graduate with a BTech in Computer Science and Engineering (Class of 2023), fueled by a passion for crafting robust and scalable software solutions. Currently on the lookout for exciting opportunities, I'm eager to contribute my skills and knowledge to a dynamic and innovative team. 🎓 Academic Background I hold a Bachelor's degree in Computer Science and Engineering, providing me with a solid foundation in computer science principles and problem-solving skills. My academic journey has equipped me with a diverse set of skills that I am ready to apply in real-world scenarios. 💼 Professional Experience I had the privilege of interning at DailyObjects.com, where I served as a Backend Developer specializing in Node.js. This enriching experience spanned six months, during which I contributed to the development of scalable backend systems, honing my skills in building robust and efficient server-side applications.
+I'm a recent graduate with a BTech in Computer Science and Engineering (Class of 2023), fueled by a passion for crafting robust and scalable software solutions. Currently on the lookout for exciting opportunities, I'm eager to contribute my skills and knowledge to a dynamic and innovative team.
+
+### 🎓 Academic Background
+
+I hold a Bachelor's degree in Computer Science and Engineering, providing me with a solid foundation in computer science principles and problem-solving skills. My academic journey has equipped me with a diverse set of skills that I am ready to apply in real-world scenarios.
+
+### 💼 Professional Experience
+
+I had the privilege of interning at DailyObjects.com, where I served as a Backend Developer specializing in Node.js. This enriching experience spanned six months, during which I contributed to the development of scalable backend systems, honing my skills in building robust and efficient server-side applications.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [seutkarsh@gmail.com](mailto:seutkarsh@gmail.com)
